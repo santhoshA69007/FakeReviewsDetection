@@ -49,7 +49,7 @@ Main task is to detect whether a given review is fraudulent or not. If it is com
   <li>TFIDF(Term Frequency-Inverse Document Frequency) Transformer</li>
 </ul>
 
-## Machine Learning Algorithms Used
+## Machine Learning Algorithms Used by this module and its implementation
 
 <ol>
   <li>Logistic Regression</li>
